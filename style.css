@@ -142,8 +142,4 @@ hr {
 	.projects-grid {
 		grid-template-columns: 100%;
 	}
-
-	.links-and-contact {
-		grid-template-columns: 100%;
-	}
 }
